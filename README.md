@@ -1,6 +1,2 @@
 # HQ_OpenGL
-
-这是一个利用双顶点缓冲数组和双着色器完成的OpenGL的光照初始效果，
-其中奇怪的是，当把"Wty.shader"换成"Light.shader"时会读取失败，
-系统报错[OpenGL Error] (1282)glUseProgram(m_RendererID)令人费解，
-特将此段程序上传，当作自己的碰壁史。
+This is an initial lighting effect for OpenGL using a dual vertex buffer array and dual shaders. The strange thing is that when you replace "Wty. shader" with "Light. shader", the reading fails, and the system reports an error [OpenGL Error] (1282) glUseProgram (m_RendererID) that is puzzling. I hereby upload this program as my own history of hitting a wall.
